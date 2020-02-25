@@ -3,7 +3,7 @@
 <img src="figure2.png" alt="Paris" class="center" width="500">
 </p>
 
-S3E provides a way to generate sentence embedding from static word embeddings. It contains three step: semantic group construction, intra-group descriptor and inter-group descriptor. We provide the source code for generating your own sentence embedding.
+S3E provides a way to generate sentence embedding from static word embeddings. It contains three step: semantic group construction, intra-group descriptor and inter-group descriptor. We provide the source code for generating your own sentence embedding. More details from [S3E paper](tobefilled)
 
 
 | Section | Description |
